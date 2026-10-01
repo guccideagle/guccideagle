@@ -1,0 +1,51 @@
+name: Update age
+
+on:
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update age
+        run: |
+          python - <<'PY'
+          from datetime import date
+          from pathlib import Path
+
+          birth_date = date(2008, 5, 22)
+          today = date.today()
+
+          age = today.year - birth_date.year - (
+              (today.month, today.day) < (birth_date.month, birth_date.day)
+          )
+
+          path = Path("README.md")
+          text = path.read_text()
+
+          import re
+          updated = re.sub(
+              r"\*\*\d+ years old ·",
+              f"**{age} years old ·",
+              text,
+              count=1,
+          )
+
+          path.write_text(updated)
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update age"
+          git push
