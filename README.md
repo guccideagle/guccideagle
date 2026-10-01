@@ -1,24 +1,22 @@
 # Matvey
 
-**Software Engineer · ML/AI Builder · Founder**
+**Software Engineer · ML/AI · Founder**
 
-I build software, explore machine learning, and turn ideas into real products.
+I build software and AI projects, with a focus on turning ideas into useful products.
 
-### Focus
+## Focus
 
-- Software engineering & systems
+- Software engineering
 - Machine learning & AI
 - Product development
-- Building ambitious technology projects
+- Systems & infrastructure
 
-### Selected Work
+## Projects
 
-Projects and experiments will live here as I build them.
+Projects, experiments, and selected work will be added here.
 
-### Tech
+## Tech
 
-Python · Go · SQL · PostgreSQL · Linux · Git
+**Languages:** Python · Go · SQL  
+**Tools:** Git · GitHub · Linux · PostgreSQL
 
----
-
-*Building things that matter.*
