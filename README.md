@@ -1,22 +1,25 @@
 # Matvey
 
-**18 years old · Software Engineer · ML/AI · Founder** 🚀
+**18 years old · Software Engineer · ML/AI**
 
-I build software and AI projects, with a focus on turning ideas into useful products.
+📍 Moscow
 
-## 🎯 Focus
+## About
 
-- 💻 Software engineering
-- 🤖 Machine learning & AI
-- 🧩 Product development
-- ⚙️ Systems & infrastructure
+I like building things, figuring out how they work, and turning ideas into projects.
 
-## 🛠️ Projects
+## Interests
 
-Projects, experiments, and selected work will be added here.
+💻 Software  
+🤖 ML / AI  
+⚙️ Backend & systems  
+🚀 Startups
 
-## 🔧 Tech
+## Stack
 
-**Languages:** Python · Go · SQL  
-**Tools:** Git · GitHub · Linux · PostgreSQL
+Python · Go · SQL · PostgreSQL · Linux · Git
+
+## Projects
+
+Coming soon.
 
