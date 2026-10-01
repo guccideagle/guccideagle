@@ -1,16 +1,24 @@
-## Hi there 👋
+# Matvey
 
-<!--
-**guccideagle/guccideagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · ML/AI Builder · Founder**
 
-Here are some ideas to get you started:
+I build software, explore machine learning, and turn ideas into real products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+- Software engineering & systems
+- Machine learning & AI
+- Product development
+- Building ambitious technology projects
+
+### Selected Work
+
+Projects and experiments will live here as I build them.
+
+### Tech
+
+Python · Go · SQL · PostgreSQL · Linux · Git
+
+---
+
+*Building things that matter.*
