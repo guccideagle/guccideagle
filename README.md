@@ -1,6 +1,6 @@
 # Matvey
 
-**Software Engineer · ML/AI · Founder** 🚀
+**18 years old · Software Engineer · ML/AI · Founder** 🚀
 
 I build software and AI projects, with a focus on turning ideas into useful products.
 
